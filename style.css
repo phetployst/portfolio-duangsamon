@@ -322,9 +322,13 @@ section {
 
 #experience {
   position: relative;
-  height: 380px;
-  /* เดี๋ยวมาปรับนะ ความสูง */
 }
+
+/* @media screen and (min-with: 1440px) {
+  #experience {
+    height: 380px;
+  }
+} */
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
